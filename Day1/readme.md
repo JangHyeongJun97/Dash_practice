@@ -11,4 +11,3 @@ dash_profile
   
   -하나
   -둘
-  *셋
